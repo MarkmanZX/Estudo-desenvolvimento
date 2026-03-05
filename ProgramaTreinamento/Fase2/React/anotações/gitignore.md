@@ -1,0 +1,1 @@
+Serve para colocar os arquivos que não devem subir para o github por serem pesados demais, por exemplo o node_modules

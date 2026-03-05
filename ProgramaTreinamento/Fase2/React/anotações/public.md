@@ -1,0 +1,1 @@
+public são arquivos públicos como por exemplo logo e imagens
